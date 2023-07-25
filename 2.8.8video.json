@@ -329,5 +329,15 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用"
+  },
+  {
+    "key": "lehootv",
+    "id": 30,
+    "name": "大漠资源",
+    "api": "https://damozy.com/api.php/provide/vod/from/M3U8/at/xml/",
+    "group": "切片",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
   }
 ]
