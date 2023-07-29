@@ -574,8 +574,16 @@
 "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/"
 },{
 "type":0,
+"name":"大漠资源",
+"api":""
+},{
+"type":0,
 "name":"影图资源",
 "api":"https://cj.vodimg.top/api.php/provide/vod/at/xml"
+},{
+"type":0,
+"name":"奈飞资源",
+"api":"https://www.naifei.live/api.php/provide/vod/at/xml"
 },{
 "type":8,
 "name":"厂长资源",
