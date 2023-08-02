@@ -585,6 +585,14 @@
 "name":"奈飞资源",
 "api":"https://www.naifei.live/api.php/provide/vod/at/xml"
 },{
+"type":0,
+"name":"卧龙资源",
+"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/"
+},{
+"type":0,
+"name":"鱼乐资源",
+"api":"https://api.yulecj.com/api.php/provide/vod/at/xml/"
+},{
 "type":8,
 "name":"厂长资源",
 "api":"https://raw.githubusercontent.com/trial/dp/master/json2/czspp.json"
