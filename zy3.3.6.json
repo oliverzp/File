@@ -1157,7 +1157,200 @@
       "id": "151"
     }
   ],
-  "tbl_iptv": [],
+  "tbl_iptv": [
+    {
+      "id": "1",
+      "name": "APTV",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "type": "remote",
+      "isActive": true,
+      "epg": "https://epg.112114.xyz/"
+    },
+    {
+      "id": "2",
+      "name": "bestv",
+      "url": "https://telegram-feiyangdigital.v1.mk/bestv.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": "https://epg.112114.xyz/"
+    },
+    {
+      "id": "3",
+      "name": "肥羊精选",
+      "url": "https://telegram-feiyangdigital.v1.mk",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "4",
+      "name": "凤凰资讯",
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "5",
+      "name": "茶客",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
+      "isActive": true,
+      "type": "remote",
+      "epg": "https://epg.112114.eu.org/"
+    },
+    {
+      "id": "6",
+      "name": "CQYX",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "7",
+      "name": "乌云",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "8",
+      "name": "4k/8k",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "9",
+      "name": "GHYX",
+      "url": "https://telegram-feiyangdigital.v1.mk/ghyx.m3u",
+      "isActive": false,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "10",
+      "name": "SXG-IPV6",
+      "url": "https://telegram-feiyangdigital.v1.mk/sxg.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "11",
+      "name": "爱尚",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u",
+      "isActive": false,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "12",
+      "name": "虎牙直播",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "13",
+      "name": "虎牙一起看",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "14",
+      "name": "斗鱼一起看",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "15",
+      "name": "斗鱼直播",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "16",
+      "name": "pastebin",
+      "url": "https://pastebin.com/raw/ZvKmAfRg",
+      "isActive": false,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "17",
+      "name": "Ray直播",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "type": "remote",
+      "epg": "",
+      "isActive": true
+    },
+    {
+      "id": "18",
+      "name": "多多直播",
+      "url": "https://yydsys.top/duo/txt/v.txt",
+      "type": "remote",
+      "epg": "http://epg.112114.xyz",
+      "isActive": true
+    },
+    {
+      "id": "19",
+      "name": "IPV6专用",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u",
+      "type": "remote",
+      "epg": "http://epg.112114.xyz",
+      "isActive": true
+    },
+    {
+      "id": "20",
+      "name": "电视伴音",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
+      "type": "remote",
+      "epg": "http://epg.112114.xyz",
+      "isActive": true
+    },
+    {
+      "name": "YanG-1989",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u ",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": "21"
+    },
+    {
+      "name": "手动测测",
+      "url": "cctv,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001221/index.m3u8?",
+      "epg": "",
+      "type": "batches",
+      "isActive": true,
+      "id": "22"
+    },
+    {
+      "name": "TV最新",
+      "url": "C:\\Users\\p_zhang15\\Downloads\\Programs\\tv.m3u",
+      "epg": "",
+      "type": "local",
+      "isActive": true,
+      "id": "31e99f54-02d3-491c-9136-4a8589eaf4e7"
+    },
+    {
+      "name": "小苹果",
+      "url": "C:\\Users\\p_zhang15\\Downloads\\Programs\\小苹果.m3u",
+      "epg": "",
+      "type": "local",
+      "isActive": true,
+      "id": "505a0ac9-1fc9-4257-8a3c-9c6c2ace4b64"
+    }
+  ],
   "tbl_channel": [
     {
       "name": "48481548",
