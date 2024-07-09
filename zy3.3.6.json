@@ -22778,11 +22778,237 @@
       "isActive": false
     },
     {
+      "id": "33",
       "name": "JY",
       "url": "https://jx.playerjy.com/?url=",
       "isActive": true,
       "id": "250"
+    },
+        {
+      "id": "34",
+      "name": "纯净",
+      "url": "https://im1907.top/?jx=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "35",
+      "name": "B站",
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "36",
+      "name": "爱豆",
+      "url": "https://jx.aidouer.net/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "37",
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "38",
+      "name": "OK解析",
+      "url": "https://okjx.cc/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "39",
+      "name": "诺讯",
+      "url": "https://www.nxflv.com/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "40",
+      "name": "夜幕",
+      "url": "https://www.yemu.xyz/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "41",
+      "name": "M3U8.TV",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "42",
+      "name": "人人迷",
+      "url": "https://jx.blbo.cc:4433/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "43",
+      "name": "全民",
+      "url": "https://jx.blbo.cc:4433/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "44",
+      "name": "七哥",
+      "url": "https://jx.nnxv.cn/tv.php?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "45",
+      "name": "冰豆",
+      "url": "https://api.qianqi.net/vip/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "46",
+      "name": "迪奥",
+      "url": "https://123.1dior.cn/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "47",
+      "name": "CK",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "48",
+      "name": "ckmov",
+      "url": "https://www.ckmov.vip/api.php?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "49",
+      "name": "playerjy/B站",
+      "url": "https://jx.playerjy.com/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "50",
+      "name": "ccyjjd",
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "51",
+      "name": "诺诺",
+      "url": "https://www.ckmov.com/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "52",
+      "name": "H8",
+      "url": "https://www.h8jx.com/jiexi.php?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "53",
+      "name": "BL",
+      "url": "https://vip.bljiex.com/?v=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "54",
+      "name": "解析la",
+      "url": "https://api.jiexi.la/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "55",
+      "name": "MUTV",
+      "url": "https://jiexi.janan.net/jiexi/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "56",
+      "name": "MAO",
+      "url": "https://www.mtosz.com/m3u8.php?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "57",
+      "name": "盘古",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "58",
+      "name": "0523",
+      "url": "https://go.yh0523.cn/y.cy?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "59",
+      "name": "17云",
+      "url": "https://www.1717yun.com/jx/ty.php?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "60",
+      "name": "4K",
+      "url": "https://jx.4kdv.com/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "61",
+      "name": "8090",
+      "url": "https://www.8090g.cn/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "62",
+      "name": "180",
+      "url": "https://jx.000180.top/jx/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "63",
+      "name": "无名",
+      "url": "https://www.administratorw.com/video.php?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "64",
+      "name": "yangtu",
+      "url": "https://jx.yangtu.top/?url=",
+      "isActive": true,
+      "type": 0
+    },
+    {
+      "id": "65",
+      "name": "小新",
+      "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url=",
+      "isActive": true,
+      "type": 0
     }
+  
   ],
   "tbl_drive": [
     {
