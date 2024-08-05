@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -479,7 +479,7 @@
   },
   {
     "id": 2,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -756,7 +756,7 @@
   },
   {
     "id": 4,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -921,7 +921,7 @@
   },
   {
     "id": 6,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -1105,7 +1105,7 @@
   },
   {
     "id": 7,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -1347,7 +1347,7 @@
   },
   {
     "id": 9,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -1659,7 +1659,7 @@
   },
   {
     "id": 11,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 13,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -1966,7 +1966,7 @@
   },
   {
     "id": 14,
-    "name": "CCTV1综合",
+    "name": "CCTV01综合",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -2073,7 +2073,7 @@
   },
   {
     "id": 15,
-    "name": "CCTV2财经",
+    "name": "CCTV02财经",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -2390,7 +2390,7 @@
   },
   {
     "id": 16,
-    "name": "CCTV3综艺",
+    "name": "CCTV03综艺",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -2595,7 +2595,7 @@
   },
   {
     "id": 17,
-    "name": "CCTV3综艺",
+    "name": "CCTV03综艺",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -2800,7 +2800,7 @@
   },
   {
     "id": 18,
-    "name": "CCTV4国际",
+    "name": "CCTV04国际",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -2935,7 +2935,7 @@
   },
   {
     "id": 19,
-    "name": "CCTV4国际",
+    "name": "CCTV04国际",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -3156,7 +3156,7 @@
   },
   {
     "id": 21,
-    "name": "CCTV5体育",
+    "name": "CCTV05体育",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -3312,7 +3312,7 @@
   },
   {
     "id": 22,
-    "name": "CCTV5体育",
+    "name": "CCTV05体育",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -3671,7 +3671,7 @@
   },
   {
     "id": 23,
-    "name": "CCTV6电影",
+    "name": "CCTV06电影",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -3841,7 +3841,7 @@
   },
   {
     "id": 24,
-    "name": "CCTV6电影",
+    "name": "CCTV06电影",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -4060,7 +4060,7 @@
   },
   {
     "id": 25,
-    "name": "CCTV7军事",
+    "name": "CCTV07军事",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -4393,7 +4393,7 @@
   },
   {
     "id": 27,
-    "name": "CCTV8电视",
+    "name": "CCTV08电视",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -4584,7 +4584,7 @@
   },
   {
     "id": 28,
-    "name": "CCTV8电视",
+    "name": "CCTV08电视",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -4782,7 +4782,7 @@
   },
   {
     "id": 29,
-    "name": "CCTV9纪录",
+    "name": "CCTV09纪录",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
@@ -4945,7 +4945,7 @@
   },
   {
     "id": 30,
-    "name": "CCTV9纪录",
+    "name": "CCTV09纪录",
     "isActive": true,
     "group": "央视",
     "hasChildren": true,
