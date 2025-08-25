@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml"
 #EXTINF:-1 tvg-name="20250628 18:28:38" tvg-logo="https://live.fanmingming.cn/tv/20250628 18:28:38.png" group-title="更新时间",20250628 18:28:38
 https://gitee.com/wzbdyr/xcz/raw/master/about1080p.mp4
 #EXTINF:-1 tvg-name="白嫖军团欢迎您" tvg-logo="https://live.fanmingming.cn/tv/白嫖军团欢迎您.png" group-title="更新时间",白嫖军团欢迎您
